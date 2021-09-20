@@ -19,7 +19,7 @@ Les transparents concernant des exemples de "milieux réactifs multi-échelles" 
 
 [La vidéo de Dancing Flame de Daniel Durox](https://youtu.be/oTzOHjhBZFY)
 
-[Pyrophone - Daniel Durox](https://fr-fr.facebook.com/RareAndStrangeInstruments/videos/1305896766162591/)
+[Pyrophone - Daniel Durox](https://www.youtube.com/watch?v=rI37T3vA7fM)
 
 Deux vidéos de billards de Sinai avec des conditions initiales très légèrement différentes [ici](https://moodle.polytechnique.fr/pluginfile.php/318423/mod_folder/content/0/sinai.mp4?forcedownload=1) et [là](https://moodle.polytechnique.fr/pluginfile.php/318423/mod_folder/content/0/sinai1.mp4?forcedownload=1)
 
