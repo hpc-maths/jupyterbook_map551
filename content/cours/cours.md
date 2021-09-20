@@ -61,8 +61,8 @@ Les transparents concernant des exemples de milieux réactifs multi-échelles" s
 - Stabilité (A-, L- et B-stabilité) 
 
 
->  PC4 - Applications numérique - notion de raideur, pas de temps adaptatif 
->  CRTP III - PC3/PC4 - rendu Dimanche 17 Octobre
+>  PC4 - Applications numérique - notion de raideur, pas de temps adaptatif  
+>  CRTP III - PC3/PC4 - rendu Dimanche 17 Octobre  
 
 ```
 
