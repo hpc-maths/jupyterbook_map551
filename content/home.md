@@ -16,3 +16,23 @@ Le cours ne demande pas de pré-requis et se situe dans le cadre des départemen
 L’évaluation se fait sous la forme d’un contrôle continu par évaluation de comptes rendus de Travaux Pratiques (6 CRTP - 2/3 note finale). L’évaluation finale sous la forme d’un mini-projet en binôme et d’une soutenance (1/3 note finale). 
 
 L’équipe pédagogique est constituée de M. Massot (Cours), M. Breden (PC), L. Séries (Jupyter) et A. Loison (Mini-projets et CRTP).
+
+## Dynamical Systems for the modeling of multi-scale reactive media
+
+In a growing number of scientific and industrial applications, modeling and numerical simulation play a key role in understanding and analyzing the complex physical phenomena involved. A common element to these energetic, spatial, biological, mechanical, fluid systems, etc... revolves around the notion of dynamical systems. In mathematics, a dynamical system consists in a system and a law describing the evolution of this system in time. These systems are particularly multiscale, that is to say that they involve a very large variety of scales in time and even space. They pose many difficulties if we want to analyze them and make a precise numerical resolution in order to have reliable tools for predicting their dynamics. 
+
+In the mathematical field, the study of dynamical systems is a particularly rich and exciting area, from the work of H. Poincaré to the more recent work on chaotic dynamical systems, including the study of critical points and their stability, and the analysis of bifurcations, which touches on differential geometry.
+
+This course has been designed to provide a foundation in modeling (understanding what a hierarchy of models at different scales is), theoretical analysis and numerical analysis. The aim is to master a set of tools and to be able to conduct a complete analysis of dynamic systems from a wide range of applications. We propose to identify the issues at stake in mathematical terms in order to understand and analyze the dynamics of these systems in finite dimension, and even to propose an accurate, reliable and predictive simulation. 
+
+We will study examples in many fields of application such as combustion, fluid mechanics, population dynamics, nonlinear chemical dynamics, biomedical engineering or plasma physics, which are grouped under the term "reactive media" (a medium involving several "species", which "react" with each other, with a certain level of complexity involving a wide range of time and even space scales) 
+
+The areas in which the course will provide expertise are: mathematical analysis, numerical schemes for systems of differential equations, stability analysis of systems - bifurcation, numerical implementation and libraries of programs for numerical simulation or bifurcation analysis. Applications and simulation on computers allow an analysis of the dynamics but also an understanding of the numerical schemes at the basis of an accurate and robust simulation, as well as an opening on the stakes of high performance computing. All the Petite Classes rely on Jupyter notebooks, which allow a particularly effective familiarization with the concepts and numerical methods, and then to analyze the results in terms of applications. All the techniques proposed will be illustrated on simple examples but symptomatic of the stakes of complex systems encountered in real applications. A mini-project will allow the students to implement the notions and methods taught and to be confronted with systems applied in a wide range of application domains.
+
+
+The course does not require any pre-requisites and is part of the Applied Mathematics (MAP) and Mechanics (MEC) departments of the Ecole Polytechnique. It is part of the MAP-MECA track and is offered as part of the PA Sciences et Défis du Spatial.
+
+The evaluation is done in the form of a continuous assessment by evaluation of reports of practical work (6 CRTP - 2/3 of final grade). The final evaluation in the form of a mini-project in pairs and a defense (1/3 final grade). 
+
+The pedagogical team is composed of M. Massot (Courses), M. Breden (PC), L. Séries (Jupyter) and A. Loison (Mini-projects and CRTP).
+
