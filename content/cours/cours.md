@@ -13,11 +13,13 @@
 
 ```
 
-Les transparents du cours sont disponibles [ici](https://moodle.polytechnique.fr/pluginfile.php/318423/mod_folder/content/0/MAP551_Intro_Massot_2020_2021.pdf?forcedownload=1)
+Les transparents du cours sont disponibles [ici](https://moodle.polytechnique.fr/pluginfile.php/318423/mod_folder/content/0/MAP551_Intro_Massot_2021_2022.pdf?forcedownload=1)
 
-Les transparents concernant des exemples de milieux réactifs multi-échelles" sont disponibles [ici](https://moodle.polytechnique.fr/pluginfile.php/318423/mod_folder/content/0/Exemples_CoursMAP551_2020_2021_Slides.pdf?forcedownload=1)
+Les transparents concernant des exemples de milieux réactifs multi-échelles" sont disponibles [ici](https://moodle.polytechnique.fr/pluginfile.php/318423/mod_folder/content/0/Exemples_CoursMAP551_2021_2022_Slides.pdf?forcedownload=1)
 
 [La vidéo de Dancing Flame de Daniel Durox](https://youtu.be/oTzOHjhBZFY)
+
+[Pyrophone - Daniel Durox](https://fr-fr.facebook.com/RareAndStrangeInstruments/videos/1305896766162591/)
 
 ## Cours 2 : Théorie I - Systèmes conservatifs/dissipatifs
 
