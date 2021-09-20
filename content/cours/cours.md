@@ -19,6 +19,8 @@ Les transparents concernant des exemples de milieux réactifs multi-échelles" s
 
 [La vidéo de Dancing Flame de Daniel Durox](https://youtu.be/oTzOHjhBZFY)
 
+[Pyrophone - Daniel Durox](https://fr-fr.facebook.com/RareAndStrangeInstruments/videos/1305896766162591/)
+
 ## Cours 2 : Théorie I - Systèmes conservatifs/dissipatifs
 
 
