@@ -2,10 +2,68 @@
 
 ## Cours 1 : Introduction et notion de hiérarchie de modèles
 
-Cras consequat, magna et consectetur aliquet, quam massa feugiat elit, ac volutpat justo sem eu nisi. Suspendisse lorem odio, malesuada a mauris nec, fringilla vehicula mauris. Phasellus pharetra nunc sed dolor suscipit tempor. Nullam cursus porta libero, at consequat justo. Sed placerat rhoncus tincidunt. Suspendisse potenti. Quisque placerat, lacus quis tempor porttitor, orci magna fermentum ex, a feugiat arcu magna nec tellus. Sed a dui eleifend, feugiat nunc sed, viverra elit. Curabitur in scelerisque magna, quis venenatis odio. Sed vel luctus tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus. 
+```{admonition} Lundi 20 Septembre
+
+- Modélisation mathématique des systèmes dynamiques réactifs complexes multi-échelles
+- Hiérarchie de modèles et complexité
+- Revue d'un ensemble de cas d'application allant de la dynamique des populations en biologie, à la combustion et à la dynamique de flammes, en passant par les milieux excitables, la mécanique des fluides, la physique solaire, etc... 
+
+>  PC1 - Explosion thermique  
+>  CRTP I - rendu Dimanche 26 septembre 20h  
+
+```
 
 Les transparents du cours sont disponibles [ici](https://moodle.polytechnique.fr/pluginfile.php/318423/mod_folder/content/0/MAP551_Intro_Massot_2020_2021.pdf?forcedownload=1)
 
 Les transparents concernant des exemples de milieux réactifs multi-échelles" sont disponibles [ici](https://moodle.polytechnique.fr/pluginfile.php/318423/mod_folder/content/0/Exemples_CoursMAP551_2020_2021_Slides.pdf?forcedownload=1)
 
 [La vidéo de Dancing Flame de Daniel Durox](https://youtu.be/oTzOHjhBZFY)
+
+## Cours 2 : Théorie I - Systèmes conservatifs/dissipatifs
+
+
+```{admonition} Lundi 27 Septembre
+
+- Rappels sur l'analyse mathématique des systèmes dynamiques (théorie d'existence et unicité, comportement au voisinage des points non singulier, redressement du flot) et leur classification 
+- Identification des systèmes dissipatifs et conservatifs 
+- Applications en dynamique des populations et mécanique 
+
+>  PC2 - Exercices sur la théorie et analyse de systèmes en dynamique des population et pendule pesant  
+>  CRTP II - rendu Dimanche 10 Octobre   
+
+```
+
+
+## Cours 3 : Numérique I - Notions de base, consistance, stabilité et convergence
+
+
+```{admonition} Lundi 27 Septembre
+
+- Approximation numérique des systèmes différentiels dissipatifs et applications
+-  Schémas classiques dans le cas non raide, enjeux associés à la raideur des systèmes 
+-  Conditions d'ordre et notion de stabilité des schémas numériques (A-, L- et B-stabilité) 
+- Application sur des systèmes différentiels issus des champs applicatifs mentionnés précédemment  
+
+>  PC3 - Analyse de l'intégration numérique sur divers systèmes dissipatifs et conservatifs  
+>   
+
+```
+
+
+## Cours 4 : Numérique II - Schémas d'ordre élévé - RK
+
+
+```{admonition} Lundi 27 Septembre
+
+- Méthodes de Runge-Kutta 
+- Conditions d'ordre et stabilité aux perturbations 
+- Méthodes explicites et implicites 
+- Stabilité (A-, L- et B-stabilité) 
+
+
+>  PC4 - Applications numérique - notion de raideur, pas de temps adaptatif 
+>  CRTP III - PC3/PC4 - rendu Dimanche 17 Octobre
+
+```
+
+
