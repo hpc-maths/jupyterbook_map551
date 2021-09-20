@@ -146,7 +146,7 @@ Deux vidéos de billards de Sinai avec des conditions initiales très légèreme
 
 
 >  PC9 - **Bonus** - Applications en physique, perle sur le cerceau et mécanique céleste, EDP - KdV  
->  CRTP VI - PC9 - rendu Dimanche 5 Décembre 
+>  CRTP VII - PC9 - rendu Dimanche 5 Décembre 
 
 ```
 
