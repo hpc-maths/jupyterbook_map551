@@ -21,7 +21,7 @@ Les transparents concernant des exemples de "milieux réactifs multi-échelles" 
 
 [Pyrophone - Daniel Durox](https://www.youtube.com/watch?v=rI37T3vA7fM)
 
-Deux vidéos de billards de Sinai avec des conditions initiales très légèrement différentes [ici](https://moodle.polytechnique.fr/pluginfile.php/318423/mod_folder/content/0/sinai.mp4?forcedownload=1) et [là](https://moodle.polytechnique.fr/pluginfile.php/318423/mod_folder/content/0/sinai1.mp4?forcedownload=1)
+Deux vidéos de billards de Sinai avec des conditions initiales très légèrement différentes [ici](https://moodle.polytechnique.fr/pluginfile.php/318423/mod_folder/content/0/sinai.mp4?forcedownload=1) et [là](https://moodle.polytechnique.fr/pluginfile.php/318423/mod_folder/content/0/sinai1.mp4?forcedownload=1) (Crée par R. Zamansky).
 
 ## Cours 2 : Théorie I - Systèmes conservatifs/dissipatifs
 
@@ -145,8 +145,8 @@ Deux vidéos de billards de Sinai avec des conditions initiales très légèreme
 - Intégrateurs d'ordre élevé  
 
 
->  PC9 - **Bonus** - Applications en physique, perle sur le cerceau et mécanique céleste, EDP - KdV  
->  CRTP VII - PC9 - rendu Dimanche 5 Décembre 
+>  PC9 -  Applications en physique, perle sur le cerceau et mécanique céleste, EDP - KdV  
+>  CRTP VII - PC9 - **Bonus** - rendu Dimanche 5 Décembre 
 
 ```
 
