@@ -17,4 +17,7 @@ parts:
   - file: content/pc/pc01_intro
     sections:
     - file: content/pc/pc01
-      title: Notebook PC 1
+  - file: content/pc/pc02_intro
+    sections:
+    - file: content/pc/pc02_pendulum
+    - file: content/pc/pc02_population
