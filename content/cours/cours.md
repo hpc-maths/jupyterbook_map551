@@ -37,6 +37,11 @@ Deux vidéos de billards de Sinai avec des conditions initiales très légèreme
 
 ```
 
+Les transparents du cours sont disponibles [ici](https://moodle.polytechnique.fr/pluginfile.php/318425/mod_folder/content/0/presMAP551_Cours2_Sept2021.pdf?forcedownload=1)
+
+Les notes de cours manuscrites sont disponibles [ici](https://moodle.polytechnique.fr/pluginfile.php/318425/mod_folder/content/0/MAP551_Massot_Series_20212022_Notes_de_Cours2.pdf?forcedownload=1)
+
+[Complément bibliographique](https://moodle.polytechnique.fr/pluginfile.php/318425/mod_folder/content/0/MAP551_histoire_theorie_Cours2_Massot_2021_2022.zip?forcedownload=1)
 
 ## Cours 3 : Numérique I - Notions de base, consistance, stabilité et convergence
 
