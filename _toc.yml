@@ -21,3 +21,8 @@ parts:
     sections:
     - file: content/pc/pc02_pendulum
     - file: content/pc/pc02_population
+  - file: content/pc/pc03_intro
+    sections:
+    - file: content/pc/pc03_peano
+    - file: content/pc/pc03_curtiss
+    - file: content/pc/pc03_three_body_problem.ipynb
