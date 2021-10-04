@@ -1,0 +1,8 @@
+# PC 3
+
+This Petite Classe is divided into three parts. 
+First we investigate the importance of the Lipschitz property of the function $f$ appearing in the right-hand side of the system of differential equations  on the numerical scheme and numerical integration of the system. For that purpose, we consider a tailored example, for which the Lipschitz property is not satisfied, in a framework close to the one of the example given during the lecture, for which we know that uniqueness is not achieved. We study the influence of the multiplicity of solutions on the numerical simulations. In a second part, we come back to the main notions presented during the lecture for a toy problem known as the Curtiss-Hirschfelder equation, for which we can change the stiffness as well as the time integration step. The purpose is here to get a precise idea about the influence of the concepts of stability / accuracy / order, and their response to the presence of stiffness. Finally, we investigate the numerical resolution, using the Euler methods described in the lecture, of an example issued from celestial mechanics and inspired from the work of R.F. Arenstorf, also studied by Ernst Hairer and Gerhard Wanner. The purpose of this part is to show that basic Euler methods are not good enough to solve such a problem in a satisfactory manner, and to motivate the introduction of higher order methods, possibly combined with adaptive time-stepping strategies, that will be discussed in the next session.
+
+```{note}
+The PC statement is available [here](https://moodle.polytechnique.fr/pluginfile.php/318426/mod_folder/content/0/MAP551_PC2_2021_2022.pdf?forcedownload=1).
+```
