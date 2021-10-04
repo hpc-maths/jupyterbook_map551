@@ -58,6 +58,9 @@ Les notes de cours manuscrites sont disponibles [ici](https://moodle.polytechniq
 
 ```
 
+Les notes du cours sont disponibles [ici](https://moodle.polytechnique.fr/pluginfile.php/318428/mod_folder/content/0/Cours3_Notes_MAP551.pdf?forcedownload=1)
+
+[Complément bibliographique](https://moodle.polytechnique.fr/pluginfile.php/318428/mod_folder/content/0/MAP551_histoire_Cours3_2021_2022.zip?forcedownload=1)
 
 ## Cours 4 : Numérique II - Schémas d'ordre élévé - RK
 
