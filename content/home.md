@@ -36,3 +36,23 @@ The evaluation is done in the form of a continuous assessment by evaluation of r
 
 The pedagogical team is composed of M. Massot (Courses), M. Breden (PC), L. Séries (Jupyter) and A. Loison (Mini-projects and CRTP).
 
+
+### Bibliographie Mathématique :
+
+    - J.P. Demailly, Analyse numérique et Equations différentielles, Presses Universitaires de Grenoble (1996)
+    - J. Guckenheimer, P.J. Holmes, Nonlinear Oscillations, Dynamical Systems, and Bifurcation of Vector Fields, Applied Mathematical Sciences Vol 42, Springer (1983)
+    - E. Hairer, S.P. Nørsett, G. Wanner,  Solving Ordinary Differential Equations I - Nonstiff Problems, Springer Series in Computational Mathematics (1993)
+    - E. Hairer, G. Wanner,  Solving Ordinary Differential Equations II - Stiff and Differential-Algebraic Problems, Springer Series in Computational Mathematics (1996)
+    - E. Hairer, C. Lubich and G. Wanner, Geometric Numerical Integration, Structure-Preserving Algorithms for Ordinary Differential Equations, 2nd edition, Springer Verlag, Berlin (2006)
+    - S. Wiggins, Ìntroduction to Applied Nonlinear Dynamical Systems and Chaos, Texts in Applied Mathematics, Springer (2003)
+    - M. Duarte, Méthodes numériques adaptatives pour la simulation de la dynamique de fronts de réaction multi-échelles en temps et en espace, Thèse de Doctorat de l'Ecole Centrale Paris (2011) sur TEL
+
+### Bibliographie Appliquée :
+
+    - I.R. Epstein and J.A. Pojman, An Introduction to Nonlinear Chemical Dynamics: Oscillations, Waves, Patterns and Chaos, Oxford University Press (1998)
+    - Ya.B. Zeldovich, G.I. Barenblatt, V.B. Librovich, G.M.  Makhviladze, The Mathematical Theory of Combustion and Explosions, Consultant Bureau (1985)
+    - P. Gray, S.K. Scott, Chemical Oscillations and Instabilities: Non-linear Chemical Kinetics, International Series of Monographs in Chemistry - 21, Clarendon Press, Oxford (1994)
+    - P. Manneville, Instabilité, Chaos et Turbulence, Les éditions de l'Ecole polytechnique (2004)
+    - V. Giovangigli, Multicomponent Flow Modeling, Modeling and Simulation in Science, Engineering and Technology Series, Birkhäuser (1999)
+    - P. Holmes, J. Lumley, G. Berkooz, C.W. Rowley, Turbulence, coherent structures, dynamical systems and symmetry. Second edition. Cambridge Monographs on Mechanics. Cambridge University Press (2012)
+
