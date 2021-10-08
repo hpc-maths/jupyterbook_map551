@@ -30,3 +30,8 @@ parts:
     - file: content/pc/pc03_peano
     - file: content/pc/pc03_curtiss
     - file: content/pc/pc03_three_body_problem.ipynb
+  - file: content/pc/pc04_intro
+    sections:
+    - file: content/pc/pc04_stability
+    - file: content/pc/pc04_brusselator
+    - file: content/pc/brusselator
