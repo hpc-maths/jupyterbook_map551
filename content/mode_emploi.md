@@ -34,6 +34,17 @@ Pour ce mode, il suffit de télécharger les notebooks Jupyter depuis ce site et
 `jupyter notebook` ou `jupyter lab`
 ```
 
+```{admonition} Ajouter des packages python dans l'environnement
+
+- Activer l'environnement map551 :
+
+`conda activate map551` 
+
+
+-  Installer les nouveaux packages :
+
+`conda install jupyter bokeh ipywidgets`
+```
 ## Utiliser le JupyterHub de l'école
 
 Pour ce mode, il suffit de télécharger les notebooks Jupyter depuis ce site et les copier vers le serveur `JupyterHub` de l'école (cf. procédure suivante).
@@ -46,7 +57,7 @@ Pour ce mode, il suffit de télécharger les notebooks Jupyter depuis ce site et
 - Sélectionnez l'établissement Ecole Polytechnique Palaiseau puis utiliser vos identifiants de polytechnique pour vous connecter sur la plateforme
 
 
-- Sur la page `Server Options`, cliquer dans le rectangle MAP551 ce qui permet de lancer un `JupyterLab` avec l'ensemble des modules necessaires au cours
+- Sur la page `Server Options`, cliquer dans le rectangle MAP412 ce qui permet de lancer un `JupyterLab` avec l'ensemble des modules necessaires au cours
 
 
 - Cliquer sur l'icone `Upload files` du menu de la barre latérale gauche pour téléverser un notebook de votre machine vers le `JupyterLab` puis l'exécuter

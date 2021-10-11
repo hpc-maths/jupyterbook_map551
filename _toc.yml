@@ -34,4 +34,4 @@ parts:
     sections:
     - file: content/pc/pc04_stability
     - file: content/pc/pc04_brusselator
-    - file: content/pc/brusselator
+    - file: content/pc/pc04_vanderpol
