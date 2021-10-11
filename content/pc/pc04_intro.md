@@ -8,5 +8,5 @@ This Petite Classe is divided into three parts. We first investigate the absolut
 It is essential to have a clear understanding of the various errors as well as a clear picture of the relevance of the local error estimate. Finally, we switch to one of the most difficult and renown test case: the van der Pol oscillator. The purpose is here to extend the study we conducted on the Euler methods in PC 3, and to get a precise idea about the influence of the concepts of absolute stability, accuracy and order, and their response to the presence of stiffness for high order Runge-Kutta methods.
 
 ```{note}
-The PC statement is available [here](https://moodle.polytechnique.fr/pluginfile.php/318429/mod_folder/content/0/MAP551_PC3_2021_2022.pdf?forcedownload=1)
+The PC statement is available [here](https://moodle.polytechnique.fr/pluginfile.php/318431/mod_folder/content/0/MAP551_PC4_2021_2022.pdf?forcedownload=1)
 ```

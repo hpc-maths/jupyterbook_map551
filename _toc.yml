@@ -16,6 +16,8 @@ parts:
     sections:
     - file: content/cours/n_body
     - file: content/cours/explosion
+    - file: content/cours/curtiss_stab
+    - file: content/cours/explosion_bis
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc01_intro
