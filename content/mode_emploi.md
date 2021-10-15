@@ -45,6 +45,34 @@ Pour ce mode, il suffit de télécharger les notebooks Jupyter depuis ce site et
 
 `conda install jupyter bokeh ipywidgets`
 ```
+
+``````{admonition} Installer Julia et les packages nécessaires au cours
+
+- Télécharger l'installateur de la dernière version stable du langage Julia depuis [cette page](https://julialang.org/downloads/) et exécuter le.
+
+- Démarrez une session interactive (également connue sous le nom de "REPL" pour read-eval-print loop ) en double-cliquant sur l'exécutable Julia ou en exécutant `julia` depuis la ligne de commande.
+
+- Installer les packages nécessaires au cours en tapant dans une session interactive :
+
+```
+ julia> import Pkg
+ julia> Pkg.add("IJulia")
+ ...
+ julia> Pkg.add("Interact")
+ ...
+ julia> Pkg.add("Plots")
+ ...
+ julia> Pkg.add("DifferentialEquations")
+ ...
+ julia> Pkg.add("ODEInterfaceDiffEq")
+ ...
+ julia> Pkg.add("ODEInterfaceDiffEq")
+ ...
+ julia> Pkg.add("SimpleDiffEq")
+ ...
+```
+``````
+
 ## Utiliser le JupyterHub de l'école
 
 Pour ce mode, il suffit de télécharger les notebooks Jupyter depuis ce site et les copier vers le serveur `JupyterHub` de l'école (cf. procédure suivante).
