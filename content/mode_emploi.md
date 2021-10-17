@@ -71,6 +71,19 @@ Pour ce mode, il suffit de télécharger les notebooks Jupyter depuis ce site et
  julia> Pkg.add("BenchmarkTools")
  ...
 ```
+
+- Activer l'environnement map551  :
+
+`conda activate map551`
+
+- Installer le package webio-jupyter-extension avec l'utilitaire `pip` :
+
+`pip install webio-jupyter-extension`
+
+- Vous pouvez lancer le serveur jupyter avec un noyau Julia disponible :
+
+`jupyter notebook` 
+
 ``````
 
 ## Utiliser le JupyterHub de l'école
