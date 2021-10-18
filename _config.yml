@@ -10,6 +10,8 @@ logo: logo_MAP551.png
 execute:
   execute_notebooks: force
   timeout: 600
+  exclude_patterns:
+    - 'content/pc/pc05*'
 
 # Define the name of the latex output file for PDF builds
 #latex:

@@ -98,7 +98,9 @@ Pour ce mode, il suffit de télécharger les notebooks Jupyter depuis ce site et
 - Sélectionnez l'établissement Ecole Polytechnique Palaiseau puis utiliser vos identifiants de polytechnique pour vous connecter sur la plateforme
 
 
-- Sur la page `Server Options`, cliquer dans le rectangle MAP412 ce qui permet de lancer un `JupyterLab` avec l'ensemble des modules necessaires au cours
+- Sur la page `Server Options`, cliquer dans le rectangle `MAP412` ce qui permet de lancer un `JupyterLab` avec l'ensemble des modules nécessaires au cours
+
+- Pour exécution des notebooks Julia, cliquer sur le rectangle `Julia environment` qui permet de lancer un `JupyterLab` avec le noyau Julia et les packages nécessaires au cours 
 
 
 - Cliquer sur l'icone `Upload files` du menu de la barre latérale gauche pour téléverser un notebook de votre machine vers le `JupyterLab` puis l'exécuter

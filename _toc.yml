@@ -37,3 +37,8 @@ parts:
     - file: content/pc/pc04_stability
     - file: content/pc/pc04_brusselator
     - file: content/pc/pc04_vanderpol
+  - file: content/pc/pc05_intro
+    sections:
+    - file: content/pc/pc05_vanderpol
+    - file: content/pc/pc05_heat
+    - file: content/pc/pc05_nagumo
