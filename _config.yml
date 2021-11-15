@@ -12,6 +12,7 @@ execute:
   timeout: 600
   exclude_patterns:
     - 'content/pc/pc05*'
+    - 'content/pc/pc07_thermal_explosion_radau.ipynb'
 
 # Define the name of the latex output file for PDF builds
 #latex:

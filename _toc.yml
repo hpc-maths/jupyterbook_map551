@@ -47,3 +47,8 @@ parts:
     - file: content/pc/pc06_brusselator
     - file: content/pc/pc06_explosion
     - file: content/pc/pc06_bead
+  - file: content/pc/pc07_intro
+    sections:
+    - file: content/pc/pc07_thermal_explosion_imex
+    - file: content/pc/pc07_thermal_explosion_radau
+    - file: content/pc/pc07_turing_bz_imex
