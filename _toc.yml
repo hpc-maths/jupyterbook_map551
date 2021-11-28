@@ -52,3 +52,7 @@ parts:
     - file: content/pc/pc07_thermal_explosion_imex
     - file: content/pc/pc07_thermal_explosion_radau
     - file: content/pc/pc07_turing_bz_imex
+  - file: content/pc/pc09_intro
+    sections:
+    - file: content/pc/pc09_double_well
+    - file: content/pc/pc09_hoop
