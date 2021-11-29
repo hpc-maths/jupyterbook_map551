@@ -56,3 +56,5 @@ parts:
     sections:
     - file: content/pc/pc09_double_well
     - file: content/pc/pc09_hoop
+    - file: content/pc/pc09_n_body
+    - file: content/pc/pc09_arenstorf
